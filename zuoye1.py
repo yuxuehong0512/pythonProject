@@ -42,3 +42,4 @@ img_root0 = 'D://lianxi/JPGImages/'
 save_dir0 = 'D:/lianxi/wenjian/'
 
 rename_copy(img_root=img_root0, save_dir=save_dir0)
+rename_copy('D://lianxi/JPGImages/', "D://lianxi/JPGImages/")
