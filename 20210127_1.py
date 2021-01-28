@@ -4,10 +4,10 @@
 # time    :2021/1/27 13:15
 def qian(m, n, q):
     '''
-
-    :param m:
-    :param n:
-    :param q:
+    计算本金和利息
+    :param m:每个月存入本金
+    :param n:利率
+    :param q:存的月数
     :return:
     '''
 
